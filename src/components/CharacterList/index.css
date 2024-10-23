@@ -1,0 +1,10 @@
+.list {
+  display: flex;
+ 
+}
+.para {
+  color: #0f172a;
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: bold;
+}
